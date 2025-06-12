@@ -1,0 +1,47 @@
+body{
+	font-family: verdana;
+	margin: 0;
+	padding: 0;
+	background: #cd5c5c; /*ESTABLECE EL COLOR DE FONDO*/
+}
+	header{
+	background: #f08080; /*ESTABLECE EL COLOR DEL ENCABEZADO*/
+	color: white;
+	text-align: center;
+	padding: 60px 0;
+	margin: 5px;
+	border-radius: 20px;
+}
+nav ul{
+	list-style: none;
+	padding: 0;
+}
+nav ul li{
+	display: inline;
+	margin: 0 20px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+section {
+	padding: 20px;
+	margin: 20px;
+	background: #e9967a;
+	border-radius: 30px;
+}
+img{
+	border-radius: 20px;
+	height: 230px;
+	width: 208px;
+	margin: 20px;
+}
+footer {
+	text-align: center;
+	padding: 20px;
+	background: #f08080;
+	color: white;
+	width: 100%;
+	position: relative;
+	bottom: 0;
+}
